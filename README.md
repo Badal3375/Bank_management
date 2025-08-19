@@ -23,8 +23,10 @@ This project demonstrates **modular programming** with different banking functio
   
 *Test Case:* Enter valid details → Account created successfully.  
 
-### 2. Deposit Amount  
-  < 
+### 2. Deposit Amoun
+
+
+  
 *Test Case:* Deposit ₹5000 into Account `101` → Balance updated correctly.  
 
 ### 3. Withdraw Amount  
@@ -72,3 +74,8 @@ This project demonstrates **modular programming** with different banking functio
    ```bash
    git clone https://github.com/your_github_username/bank-management-system.git
    cd bank-management-system
+
+
+
+overall working 
+In vedio form 
